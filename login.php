@@ -1,5 +1,5 @@
 <?php
-  $host = 'localhost';
+  $host = 'http://localhost:8080/phpmyadmin/';
   $database ='teste';
   $usuario ='root';
   $senha = 'usbw';
